@@ -1,4 +1,4 @@
-       /*    Dedicated for JRC   */
+       /*    Dedicated for JRC    *****NEAMATULLAH***** */
 
 #include <IRremote.h>
 
@@ -115,3 +115,11 @@ void loop() {
   
 
 }
+
+
+/*
+THANKS FOR USE THIS
+IF YOU FACE ANY PROBLEM 
+CONTACT ME ON FACEBOOK
+WWW.FACEBOOK.COM/neamatullah.masud.5
+*/
